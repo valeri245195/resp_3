@@ -1,1 +1,1 @@
-print("glob")
+print("go")
